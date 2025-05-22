@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Life Task Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_todos">To-Do List</string>
+    <string name="menu_recipes">Recipes</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="todo_hint">Enter your task</string>
+    <string name="recipe_name_hint">Recipe name</string>
+    <string name="recipe_ingredients_hint">Ingredients</string>
+    <string name="recipe_instructions_hint">Instructions</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources> 
